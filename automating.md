@@ -1,10 +1,8 @@
 # Adding Automated Testing
 
 You will be able to download the sample input/output for the problems in a ZIP file.
-
-You can extract the files using the grapical file manager or the `unzip` command
+You can extract the files using the graphical file manager or the `unzip` command
 (eg `unzip samples.zip`).
-
 The sample input will be in a `.in` file, and the expected output will be in a similarly-named `.out` file.
 
 You can redirect your program's stdin using the following:
